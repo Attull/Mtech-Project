@@ -1,1 +1,1 @@
-![](img/1.png)
+![](first_algo/img/1.png)
