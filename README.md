@@ -7,4 +7,4 @@ First algo
 
 Second algo
 
-![](sec_algo/img/1.png)
+![](second_algo/img/1.png)
